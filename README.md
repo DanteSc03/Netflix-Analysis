@@ -1,3 +1,3 @@
 # Netflix-Analysis
 
-A graphical analysis of netflix usage over time. 
+A graphical analysis of netflix movie durations over time. 
