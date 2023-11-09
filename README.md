@@ -1,3 +1,3 @@
 # Netflix-Analysis
 
-A graphical analysis of netflix movie durations over time. 
+A simple project showing netflix movie durations over the last 30 years. 
